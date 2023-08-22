@@ -13,10 +13,7 @@ N/A
 To see the refactored HTML and CSS codes, you can copy and paste this link into your browser: https://miloyang.github.io/Week1-Code-Refactor-Challenge/
 
 The page should open as per below screenshot:
-
-'''md
 ![Screenshot of Refactored Website Page](assets/images/challenge-page-screenshot.png)
-'''
 
 They can be seen when you open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see the refactored HTML and CSS codes. 
 
